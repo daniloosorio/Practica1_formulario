@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Practica1_formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="cedula">Cedula</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">Telefono</string>
+    <string name="contrasena">Contrasena</string>
+    <string name="Rcontrasena">Repetir contrasena</string>
+    <string name="genero">Genero</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="ciudaddenacimiento">Ciudad de Nacimiento</string>
+    <string name="fechadenacimiento">Fecha de Nacimiento</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="leer">leer</string>
+    <string name="jugar">Jugar</string>
+    <string name="comer">Comer</string>
+    <string name="cine">Ir a cine</string>
+    <string name="guardar">Guardar</string>
+    <string name="error_contrasena">Las contrasenas no son iguales \n</string>
+    <string name="fecha">MM/dd/yyyy</string>
+    <string-array name="ciudades">
+        <item>medellin</item>
+        <item>bogota</item>
+        <item>barranquilla</item>
+        <item>cartagena</item>
+        <item>cali</item>
+    </string-array>
+</resources>
